@@ -7,3 +7,19 @@
   -o-background-size: cover;
   background-size: cover;
 }
+.divider-custom{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.divider-custom-line{
+  height: 0.25rem;
+  width: 7rem;
+  color: white;
+  background-color: white;
+}
+.divider-custom-icon{
+  width: 5rem;
+  text-align: center;
+  font-size: 2rem;
+}
